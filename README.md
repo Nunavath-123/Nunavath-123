@@ -2,7 +2,7 @@
 - 👀 I’m interested in .. Java,JEE
 - 🌱 I’m currently learning ... SpringBoot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..on Instagram @Upendar-26
+- 📫 How to reach me ..Instagram @Upendar-26
 - Facebook @Upendar Nunavath
 
 <!---
